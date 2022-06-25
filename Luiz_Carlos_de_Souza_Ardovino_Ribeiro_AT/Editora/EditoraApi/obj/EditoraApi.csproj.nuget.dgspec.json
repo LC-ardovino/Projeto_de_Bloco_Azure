@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\GitHub\\Projeto_de_Bloco_Azure\\Projeto_de_Bloco_Azure\\Editora\\EditoraApi\\EditoraApi.csproj": {}
+    "C:\\Luiz\\repositorios\\Projeto_de_Bloco_Azure\\Luiz_Carlos_de_Souza_Ardovino_Ribeiro_AT\\Editora\\EditoraApi\\EditoraApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\GitHub\\Projeto_de_Bloco_Azure\\Projeto_de_Bloco_Azure\\Editora\\EditoraApi\\EditoraApi.csproj": {
+    "C:\\Luiz\\repositorios\\Projeto_de_Bloco_Azure\\Luiz_Carlos_de_Souza_Ardovino_Ribeiro_AT\\Editora\\EditoraApi\\EditoraApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Projeto_de_Bloco_Azure\\Projeto_de_Bloco_Azure\\Editora\\EditoraApi\\EditoraApi.csproj",
+        "projectUniqueName": "C:\\Luiz\\repositorios\\Projeto_de_Bloco_Azure\\Luiz_Carlos_de_Souza_Ardovino_Ribeiro_AT\\Editora\\EditoraApi\\EditoraApi.csproj",
         "projectName": "EditoraApi",
-        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Projeto_de_Bloco_Azure\\Projeto_de_Bloco_Azure\\Editora\\EditoraApi\\EditoraApi.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Projeto_de_Bloco_Azure\\Projeto_de_Bloco_Azure\\Editora\\EditoraApi\\obj\\",
+        "projectPath": "C:\\Luiz\\repositorios\\Projeto_de_Bloco_Azure\\Luiz_Carlos_de_Souza_Ardovino_Ribeiro_AT\\Editora\\EditoraApi\\EditoraApi.csproj",
+        "packagesPath": "C:\\Users\\luiz.ribeiro\\.nuget\\packages\\",
+        "outputPath": "C:\\Luiz\\repositorios\\Projeto_de_Bloco_Azure\\Luiz_Carlos_de_Souza_Ardovino_Ribeiro_AT\\Editora\\EditoraApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luiz.ribeiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\User\\Documents\\GitHub\\Projeto_de_Bloco_Azure\\Projeto_de_Bloco_Azure\\Editora\\EditoraBLL\\EditoraBLL.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Projeto_de_Bloco_Azure\\Projeto_de_Bloco_Azure\\Editora\\EditoraBLL\\EditoraBLL.csproj"
+              "C:\\Luiz\\repositorios\\Projeto_de_Bloco_Azure\\Luiz_Carlos_de_Souza_Ardovino_Ribeiro_AT\\Editora\\EditoraBLL\\EditoraBLL.csproj": {
+                "projectPath": "C:\\Luiz\\repositorios\\Projeto_de_Bloco_Azure\\Luiz_Carlos_de_Souza_Ardovino_Ribeiro_AT\\Editora\\EditoraBLL\\EditoraBLL.csproj"
               },
-              "C:\\Users\\User\\Documents\\GitHub\\Projeto_de_Bloco_Azure\\Projeto_de_Bloco_Azure\\Editora\\EditoraDAL\\EditoraDAL.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Projeto_de_Bloco_Azure\\Projeto_de_Bloco_Azure\\Editora\\EditoraDAL\\EditoraDAL.csproj"
+              "C:\\Luiz\\repositorios\\Projeto_de_Bloco_Azure\\Luiz_Carlos_de_Souza_Ardovino_Ribeiro_AT\\Editora\\EditoraDAL\\EditoraDAL.csproj": {
+                "projectPath": "C:\\Luiz\\repositorios\\Projeto_de_Bloco_Azure\\Luiz_Carlos_de_Souza_Ardovino_Ribeiro_AT\\Editora\\EditoraDAL\\EditoraDAL.csproj"
               }
             }
           }
@@ -96,21 +96,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Documents\\GitHub\\Projeto_de_Bloco_Azure\\Projeto_de_Bloco_Azure\\Editora\\EditoraBLL\\EditoraBLL.csproj": {
+    "C:\\Luiz\\repositorios\\Projeto_de_Bloco_Azure\\Luiz_Carlos_de_Souza_Ardovino_Ribeiro_AT\\Editora\\EditoraBLL\\EditoraBLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Projeto_de_Bloco_Azure\\Projeto_de_Bloco_Azure\\Editora\\EditoraBLL\\EditoraBLL.csproj",
+        "projectUniqueName": "C:\\Luiz\\repositorios\\Projeto_de_Bloco_Azure\\Luiz_Carlos_de_Souza_Ardovino_Ribeiro_AT\\Editora\\EditoraBLL\\EditoraBLL.csproj",
         "projectName": "EditoraBLL",
-        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Projeto_de_Bloco_Azure\\Projeto_de_Bloco_Azure\\Editora\\EditoraBLL\\EditoraBLL.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Projeto_de_Bloco_Azure\\Projeto_de_Bloco_Azure\\Editora\\EditoraBLL\\obj\\",
+        "projectPath": "C:\\Luiz\\repositorios\\Projeto_de_Bloco_Azure\\Luiz_Carlos_de_Souza_Ardovino_Ribeiro_AT\\Editora\\EditoraBLL\\EditoraBLL.csproj",
+        "packagesPath": "C:\\Users\\luiz.ribeiro\\.nuget\\packages\\",
+        "outputPath": "C:\\Luiz\\repositorios\\Projeto_de_Bloco_Azure\\Luiz_Carlos_de_Souza_Ardovino_Ribeiro_AT\\Editora\\EditoraBLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luiz.ribeiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -150,21 +150,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Documents\\GitHub\\Projeto_de_Bloco_Azure\\Projeto_de_Bloco_Azure\\Editora\\EditoraDAL\\EditoraDAL.csproj": {
+    "C:\\Luiz\\repositorios\\Projeto_de_Bloco_Azure\\Luiz_Carlos_de_Souza_Ardovino_Ribeiro_AT\\Editora\\EditoraDAL\\EditoraDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Projeto_de_Bloco_Azure\\Projeto_de_Bloco_Azure\\Editora\\EditoraDAL\\EditoraDAL.csproj",
+        "projectUniqueName": "C:\\Luiz\\repositorios\\Projeto_de_Bloco_Azure\\Luiz_Carlos_de_Souza_Ardovino_Ribeiro_AT\\Editora\\EditoraDAL\\EditoraDAL.csproj",
         "projectName": "EditoraDAL",
-        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Projeto_de_Bloco_Azure\\Projeto_de_Bloco_Azure\\Editora\\EditoraDAL\\EditoraDAL.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Projeto_de_Bloco_Azure\\Projeto_de_Bloco_Azure\\Editora\\EditoraDAL\\obj\\",
+        "projectPath": "C:\\Luiz\\repositorios\\Projeto_de_Bloco_Azure\\Luiz_Carlos_de_Souza_Ardovino_Ribeiro_AT\\Editora\\EditoraDAL\\EditoraDAL.csproj",
+        "packagesPath": "C:\\Users\\luiz.ribeiro\\.nuget\\packages\\",
+        "outputPath": "C:\\Luiz\\repositorios\\Projeto_de_Bloco_Azure\\Luiz_Carlos_de_Souza_Ardovino_Ribeiro_AT\\Editora\\EditoraDAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\luiz.ribeiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -178,8 +178,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\User\\Documents\\GitHub\\Projeto_de_Bloco_Azure\\Projeto_de_Bloco_Azure\\Editora\\EditoraBLL\\EditoraBLL.csproj": {
-                "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Projeto_de_Bloco_Azure\\Projeto_de_Bloco_Azure\\Editora\\EditoraBLL\\EditoraBLL.csproj"
+              "C:\\Luiz\\repositorios\\Projeto_de_Bloco_Azure\\Luiz_Carlos_de_Souza_Ardovino_Ribeiro_AT\\Editora\\EditoraBLL\\EditoraBLL.csproj": {
+                "projectPath": "C:\\Luiz\\repositorios\\Projeto_de_Bloco_Azure\\Luiz_Carlos_de_Souza_Ardovino_Ribeiro_AT\\Editora\\EditoraBLL\\EditoraBLL.csproj"
               }
             }
           }
@@ -236,7 +236,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
