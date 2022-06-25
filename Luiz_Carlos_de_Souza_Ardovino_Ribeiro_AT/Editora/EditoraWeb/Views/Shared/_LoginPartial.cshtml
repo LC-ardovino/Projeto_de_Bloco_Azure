@@ -1,0 +1,37 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using Microsoft.AspNetCore.Http
+
+
+@if (@Context.Session.GetString("token") != null)
+{
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-right" }))
+    {
+        @Html.AntiForgeryToken()
+
+     @*   <ul class="nav navbar-nav navbar-right">
+            <li class="nav-item">@Html.ActionLink("Criar Perfil", "Create", "Profile", routeValues: null, htmlAttributes: new { id = "loginLink1" })</li>
+            <li class="nav-item">@Html.ActionLink("Logoff", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink1" })</li>
+        </ul>*@
+
+        <ul class="navbar-nav flex-grow-1">
+@*            <li class="nav-item">
+                <a class="nav-link text-dark" asp-area="" asp-controller="Profile" asp-action="Create">Criar Perfil</a>
+            </li> 
+*@            <li class="nav-item">
+                <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Login">Logoff</a>
+            </li> 
+        </ul>
+
+
+    }
+}
+else
+{
+@*    <ul class="nav navbar-nav navbar-right">
+        <li class="nav-item">@Html.ActionLink("Registrar", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+        <li class="nav-item">@Html.ActionLink("Logar", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+    </ul>*@
+
+
+
+}

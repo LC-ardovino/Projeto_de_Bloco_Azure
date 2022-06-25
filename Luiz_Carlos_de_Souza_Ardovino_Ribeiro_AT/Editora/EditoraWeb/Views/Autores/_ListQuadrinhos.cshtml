@@ -1,0 +1,35 @@
+﻿@model EditoraBLL.Models.Autor
+@{
+    var lista = new List<EditoraBLL.Models.Quadrinho>();
+
+    if (Model.Quadrinhos != null)
+    {
+        lista = Model.Quadrinhos.OrderByDescending(o => o.Titulo).ToList();
+    }
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>Título</th>
+            <th>Editora</th>
+            <th>Ano</th>
+            <!--<th></th>-->
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in lista) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Editora)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ano)
+            </td>
+
+        </tr>
+}
+    </tbody>
+</table>
