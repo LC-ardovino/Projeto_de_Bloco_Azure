@@ -1,6 +1,0 @@
-C:\Luiz\LC\SocialNetwork\SocialNetwork\SocialNetwork.Core\bin\Debug\SocialNetwork.Core.dll
-C:\Luiz\LC\SocialNetwork\SocialNetwork\SocialNetwork.Core\bin\Debug\SocialNetwork.Core.pdb
-C:\Luiz\LC\SocialNetwork\SocialNetwork\SocialNetwork.Core\obj\Debug\SocialNetwork.Core.csproj.AssemblyReference.cache
-C:\Luiz\LC\SocialNetwork\SocialNetwork\SocialNetwork.Core\obj\Debug\SocialNetwork.Core.csproj.CoreCompileInputs.cache
-C:\Luiz\LC\SocialNetwork\SocialNetwork\SocialNetwork.Core\obj\Debug\SocialNetwork.Core.dll
-C:\Luiz\LC\SocialNetwork\SocialNetwork\SocialNetwork.Core\obj\Debug\SocialNetwork.Core.pdb

@@ -1,9 +1,0 @@
-C:\Luiz\LC\SocialNetwork\SocialNetwork\SocialNetwork.DataAccess\bin\Debug\SocialNetwork.DataAccess.dll
-C:\Luiz\LC\SocialNetwork\SocialNetwork\SocialNetwork.DataAccess\bin\Debug\SocialNetwork.DataAccess.pdb
-C:\Luiz\LC\SocialNetwork\SocialNetwork\SocialNetwork.DataAccess\bin\Debug\SocialNetwork.Core.dll
-C:\Luiz\LC\SocialNetwork\SocialNetwork\SocialNetwork.DataAccess\bin\Debug\SocialNetwork.Core.pdb
-C:\Luiz\LC\SocialNetwork\SocialNetwork\SocialNetwork.DataAccess\obj\Debug\SocialNetwork.DataAccess.csproj.AssemblyReference.cache
-C:\Luiz\LC\SocialNetwork\SocialNetwork\SocialNetwork.DataAccess\obj\Debug\SocialNetwork.DataAccess.csproj.CoreCompileInputs.cache
-C:\Luiz\LC\SocialNetwork\SocialNetwork\SocialNetwork.DataAccess\obj\Debug\SocialNetwork.DataAccess.csproj.CopyComplete
-C:\Luiz\LC\SocialNetwork\SocialNetwork\SocialNetwork.DataAccess\obj\Debug\SocialNetwork.DataAccess.dll
-C:\Luiz\LC\SocialNetwork\SocialNetwork\SocialNetwork.DataAccess\obj\Debug\SocialNetwork.DataAccess.pdb
