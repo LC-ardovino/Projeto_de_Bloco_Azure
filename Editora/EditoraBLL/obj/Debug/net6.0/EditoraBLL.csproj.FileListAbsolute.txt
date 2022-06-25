@@ -1,0 +1,12 @@
+C:\Luiz\LC\Wb_AspNet_MVC\ProjetoDeBloco\Bloco\Editora\EditoraBLL\bin\Debug\net6.0\EditoraBLL.deps.json
+C:\Luiz\LC\Wb_AspNet_MVC\ProjetoDeBloco\Bloco\Editora\EditoraBLL\bin\Debug\net6.0\EditoraBLL.dll
+C:\Luiz\LC\Wb_AspNet_MVC\ProjetoDeBloco\Bloco\Editora\EditoraBLL\bin\Debug\net6.0\EditoraBLL.pdb
+C:\Luiz\LC\Wb_AspNet_MVC\ProjetoDeBloco\Bloco\Editora\EditoraBLL\obj\Debug\net6.0\EditoraBLL.csproj.AssemblyReference.cache
+C:\Luiz\LC\Wb_AspNet_MVC\ProjetoDeBloco\Bloco\Editora\EditoraBLL\obj\Debug\net6.0\EditoraBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Luiz\LC\Wb_AspNet_MVC\ProjetoDeBloco\Bloco\Editora\EditoraBLL\obj\Debug\net6.0\EditoraBLL.AssemblyInfoInputs.cache
+C:\Luiz\LC\Wb_AspNet_MVC\ProjetoDeBloco\Bloco\Editora\EditoraBLL\obj\Debug\net6.0\EditoraBLL.AssemblyInfo.cs
+C:\Luiz\LC\Wb_AspNet_MVC\ProjetoDeBloco\Bloco\Editora\EditoraBLL\obj\Debug\net6.0\EditoraBLL.csproj.CoreCompileInputs.cache
+C:\Luiz\LC\Wb_AspNet_MVC\ProjetoDeBloco\Bloco\Editora\EditoraBLL\obj\Debug\net6.0\EditoraBLL.dll
+C:\Luiz\LC\Wb_AspNet_MVC\ProjetoDeBloco\Bloco\Editora\EditoraBLL\obj\Debug\net6.0\refint\EditoraBLL.dll
+C:\Luiz\LC\Wb_AspNet_MVC\ProjetoDeBloco\Bloco\Editora\EditoraBLL\obj\Debug\net6.0\EditoraBLL.pdb
+C:\Luiz\LC\Wb_AspNet_MVC\ProjetoDeBloco\Bloco\Editora\EditoraBLL\obj\Debug\net6.0\ref\EditoraBLL.dll
