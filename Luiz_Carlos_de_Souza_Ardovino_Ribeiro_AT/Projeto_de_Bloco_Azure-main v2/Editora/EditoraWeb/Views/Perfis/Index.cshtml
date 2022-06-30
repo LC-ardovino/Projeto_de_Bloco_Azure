@@ -1,0 +1,70 @@
+﻿@model IEnumerable<EditoraBLL.Models.Perfil>
+
+@{
+    ViewData["Title"] = "Perfil";
+
+}
+
+<h1>Perfil</h1>
+
+@if (ViewBag.Perfil == null)
+{
+     <p>
+       <a asp-action="Create">Incluir Perfil</a>
+    </p>
+}
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Username)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sobrenome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataNascimento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefone)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Username)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sobrenome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataNascimento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Telefone)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Username" class="btn btn-primary">Editar</a> 
+                <a asp-action="Delete" asp-route-id="@item.Username" class="btn btn-danger">Apagar</a> 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
